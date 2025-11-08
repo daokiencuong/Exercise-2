@@ -24,8 +24,8 @@
   align-items: center;
 }
 .modal-content {
-  background: rgb(255, 5, 5);
-  padding: 20px;
+  background: rgb(97, 97, 97);
+  padding: 20px 30px;
   border-radius: 6px;
   width: 300px;
 }
